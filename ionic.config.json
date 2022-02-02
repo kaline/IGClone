@@ -1,0 +1,7 @@
+{
+  "name": "IGClone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
